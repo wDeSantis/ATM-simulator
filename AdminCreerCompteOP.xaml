@@ -1,0 +1,47 @@
+﻿<Window x:Class="guichetauto_projet.AdminCreerCompteOP"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:guichetauto_projet"
+        mc:Ignorable="d"
+                Title="Création de compte" Height="500" Width="660" WindowStartupLocation="CenterScreen" ResizeMode="NoResize">
+    <Grid Background="#FF005DA5">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="20"></ColumnDefinition>
+            <ColumnDefinition Width="200"></ColumnDefinition>
+            <ColumnDefinition Width="10"></ColumnDefinition>
+            <ColumnDefinition Width="200"></ColumnDefinition>
+            <ColumnDefinition Width="10"></ColumnDefinition>
+            <ColumnDefinition Width="200"></ColumnDefinition>
+            <ColumnDefinition Width="20"></ColumnDefinition>
+
+
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="60"></RowDefinition>
+            <RowDefinition Height="60"></RowDefinition>
+            <RowDefinition Height="10"></RowDefinition>
+            <RowDefinition Height="60"></RowDefinition>
+            <RowDefinition Height="10"></RowDefinition>
+            <RowDefinition Height="60"></RowDefinition>
+            <RowDefinition Height="30"></RowDefinition>
+            <RowDefinition Height="60"></RowDefinition>
+            <RowDefinition Height="10"></RowDefinition>
+            <RowDefinition Height="80"></RowDefinition>
+            <RowDefinition Height="80"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Label x:Name="lblId" Content="ID Compte :" Grid.Column="1" Grid.Row="1"  Foreground="White" FontFamily="Microsoft JhengHei UI" FontWeight="Bold" FontSize="25" Height="50" HorizontalContentAlignment="Right"/>
+        <TextBox x:Name="txtID" Grid.Column="3" Grid.Row="1" Foreground="White" FontFamily="Microsoft JhengHei UI" FontWeight="Bold" FontSize="25" MaxLength="7" Background="#FF00CAFF" PreviewTextInput="txtEntree_PreviewTextInput" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+        <Label x:Name="lblCodeCli" Content="Code du client :" Grid.Column="1" Grid.Row="3"  Foreground="White" FontFamily="Microsoft JhengHei UI" FontWeight="Bold" FontSize="25" Height="50" HorizontalContentAlignment="Right"/>
+        <TextBox x:Name="txtCodeCli" Grid.Column="3" Grid.Row="3" Foreground="White" FontFamily="Microsoft JhengHei UI" FontWeight="Bold" FontSize="25" MaxLength="10" Background="#FF00CAFF" PreviewTextInput="txtEntree_PreviewTextInput" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+        <Label x:Name="lblMontant" Content="Montant $ :" Grid.Column="1" Grid.Row="5"  Foreground="White" FontFamily="Microsoft JhengHei UI" FontWeight="Bold" FontSize="25" Height="50" HorizontalContentAlignment="Right"/>
+        <TextBox x:Name="txtMontant" Grid.Column="3" Grid.Row="5" Foreground="White" FontFamily="Microsoft JhengHei UI" FontWeight="Bold" FontSize="25" MaxLength="10" Background="#FF00CAFF" PreviewTextInput="txtMontant_PreviewTextInput" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+        <Button x:Name="btnCheque" Content="Chèque" Background="#FF00CAFF"  Foreground="White" FontFamily="Microsoft JhengHei UI" FontWeight="Bold" FontSize="25" Grid.Row="7" Grid.Column="1" Width="120" Margin="21,0,59,0" Click="btnCheque_click"/>
+        <Button x:Name="btnEparne" Content="Épargne" Background="#FF00CAFF"  Foreground="White" FontFamily="Microsoft JhengHei UI" FontWeight="Bold" FontSize="25" Grid.Row="7" Grid.Column="1" Width="120" Grid.ColumnSpan="3" Margin="160,0,130,0" Click="btnEpargne_click"/>
+        <Button x:Name="btnMarge" Content="Marge" Background="#FF00CAFF"  Foreground="White" FontFamily="Microsoft JhengHei UI" FontWeight="Bold" FontSize="25" Grid.Row="7" Grid.Column="3" Width="120" Grid.ColumnSpan="2" Margin="90,0,0,0" Click="btnMarge_click"/>
+        <Button x:Name="btnHypothecaire" Content="Hypothécaire" Background="#FF00CAFF"  Foreground="White" FontFamily="Microsoft JhengHei UI" FontWeight="Bold" FontSize="25" Grid.Row="7" Grid.Column="5" Width="170" Margin="15,0,15,0" Click="btnHypothecaire_click"/>
+        <Button x:Name="btnMenu" Content="Menu" Grid.Row="9" Grid.Column="1" FontSize="30" Width="120" Margin="145,40,145,70" Foreground="White" Background="#FF00CAFF" FontFamily="Microsoft JhengHei UI" FontWeight="Bold" Grid.ColumnSpan="3" Click="btnMenu_click" Height="50" Grid.RowSpan="2"/>
+        <Button x:Name="btnQuit" Content="Quitter" Grid.Row="9" Grid.Column="3" FontSize="30" Width="120" Margin="145,40,145,70" Foreground="White" Background="#FF00CAFF" FontFamily="Microsoft JhengHei UI" FontWeight="Bold" Grid.ColumnSpan="3" Click="btnQuitter_click" Height="50" Grid.RowSpan="2"/>
+    </Grid>
+</Window>

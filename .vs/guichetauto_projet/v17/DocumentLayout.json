@@ -1,0 +1,739 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\15148\\source\\repos\\guichetauto_projet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F841D3AB-9C2E-4FBE-ABD2-44F5269917C5}|guichetauto_projet.csproj|c:\\users\\15148\\source\\repos\\guichetauto_projet\\transferthypothecaire.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F841D3AB-9C2E-4FBE-ABD2-44F5269917C5}|guichetauto_projet.csproj|solutionrelative:transferthypothecaire.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F841D3AB-9C2E-4FBE-ABD2-44F5269917C5}|guichetauto_projet.csproj|C:\\Users\\15148\\source\\repos\\guichetauto_projet\\retraitepargne.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F841D3AB-9C2E-4FBE-ABD2-44F5269917C5}|guichetauto_projet.csproj|solutionrelative:retraitepargne.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F841D3AB-9C2E-4FBE-ABD2-44F5269917C5}|guichetauto_projet.csproj|C:\\Users\\15148\\source\\repos\\guichetauto_projet\\adminaffichertransacop.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F841D3AB-9C2E-4FBE-ABD2-44F5269917C5}|guichetauto_projet.csproj|solutionrelative:adminaffichertransacop.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F841D3AB-9C2E-4FBE-ABD2-44F5269917C5}|guichetauto_projet.csproj|C:\\Users\\15148\\source\\repos\\guichetauto_projet\\adminpreleverop.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F841D3AB-9C2E-4FBE-ABD2-44F5269917C5}|guichetauto_projet.csproj|solutionrelative:adminpreleverop.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F841D3AB-9C2E-4FBE-ABD2-44F5269917C5}|guichetauto_projet.csproj|C:\\Users\\15148\\source\\repos\\guichetauto_projet\\adminclientop.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F841D3AB-9C2E-4FBE-ABD2-44F5269917C5}|guichetauto_projet.csproj|solutionrelative:adminclientop.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F841D3AB-9C2E-4FBE-ABD2-44F5269917C5}|guichetauto_projet.csproj|C:\\Users\\15148\\source\\repos\\guichetauto_projet\\admincompteop.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F841D3AB-9C2E-4FBE-ABD2-44F5269917C5}|guichetauto_projet.csproj|solutionrelative:admincompteop.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F841D3AB-9C2E-4FBE-ABD2-44F5269917C5}|guichetauto_projet.csproj|C:\\Users\\15148\\source\\repos\\guichetauto_projet\\adminbloquageop.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F841D3AB-9C2E-4FBE-ABD2-44F5269917C5}|guichetauto_projet.csproj|solutionrelative:adminbloquageop.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F841D3AB-9C2E-4FBE-ABD2-44F5269917C5}|guichetauto_projet.csproj|C:\\Users\\15148\\source\\repos\\guichetauto_projet\\logginadmin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F841D3AB-9C2E-4FBE-ABD2-44F5269917C5}|guichetauto_projet.csproj|solutionrelative:logginadmin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F841D3AB-9C2E-4FBE-ABD2-44F5269917C5}|guichetauto_projet.csproj|C:\\Users\\15148\\source\\repos\\guichetauto_projet\\depotcheque.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F841D3AB-9C2E-4FBE-ABD2-44F5269917C5}|guichetauto_projet.csproj|solutionrelative:depotcheque.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F841D3AB-9C2E-4FBE-ABD2-44F5269917C5}|guichetauto_projet.csproj|C:\\Users\\15148\\source\\repos\\guichetauto_projet\\retraitcheque.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F841D3AB-9C2E-4FBE-ABD2-44F5269917C5}|guichetauto_projet.csproj|solutionrelative:retraitcheque.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F841D3AB-9C2E-4FBE-ABD2-44F5269917C5}|guichetauto_projet.csproj|C:\\Users\\15148\\source\\repos\\guichetauto_projet\\adminguichetop.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F841D3AB-9C2E-4FBE-ABD2-44F5269917C5}|guichetauto_projet.csproj|solutionrelative:adminguichetop.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F841D3AB-9C2E-4FBE-ABD2-44F5269917C5}|guichetauto_projet.csproj|C:\\Users\\15148\\source\\repos\\guichetauto_projet\\admincreercompteop.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F841D3AB-9C2E-4FBE-ABD2-44F5269917C5}|guichetauto_projet.csproj|solutionrelative:admincreercompteop.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F841D3AB-9C2E-4FBE-ABD2-44F5269917C5}|guichetauto_projet.csproj|C:\\Users\\15148\\source\\repos\\guichetauto_projet\\depotcheque.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F841D3AB-9C2E-4FBE-ABD2-44F5269917C5}|guichetauto_projet.csproj|solutionrelative:depotcheque.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F841D3AB-9C2E-4FBE-ABD2-44F5269917C5}|guichetauto_projet.csproj|C:\\Users\\15148\\source\\repos\\guichetauto_projet\\adminmenu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F841D3AB-9C2E-4FBE-ABD2-44F5269917C5}|guichetauto_projet.csproj|solutionrelative:adminmenu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F841D3AB-9C2E-4FBE-ABD2-44F5269917C5}|guichetauto_projet.csproj|C:\\Users\\15148\\source\\repos\\guichetauto_projet\\adminmenu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F841D3AB-9C2E-4FBE-ABD2-44F5269917C5}|guichetauto_projet.csproj|solutionrelative:adminmenu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F841D3AB-9C2E-4FBE-ABD2-44F5269917C5}|guichetauto_projet.csproj|C:\\Users\\15148\\source\\repos\\guichetauto_projet\\adminguichetop.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F841D3AB-9C2E-4FBE-ABD2-44F5269917C5}|guichetauto_projet.csproj|solutionrelative:adminguichetop.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F841D3AB-9C2E-4FBE-ABD2-44F5269917C5}|guichetauto_projet.csproj|C:\\Users\\15148\\source\\repos\\guichetauto_projet\\admincreercompteop.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F841D3AB-9C2E-4FBE-ABD2-44F5269917C5}|guichetauto_projet.csproj|solutionrelative:admincreercompteop.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F841D3AB-9C2E-4FBE-ABD2-44F5269917C5}|guichetauto_projet.csproj|C:\\Users\\15148\\source\\repos\\guichetauto_projet\\adminbloquageop.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F841D3AB-9C2E-4FBE-ABD2-44F5269917C5}|guichetauto_projet.csproj|solutionrelative:adminbloquageop.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F841D3AB-9C2E-4FBE-ABD2-44F5269917C5}|guichetauto_projet.csproj|C:\\Users\\15148\\source\\repos\\guichetauto_projet\\adminaffichertransacop.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F841D3AB-9C2E-4FBE-ABD2-44F5269917C5}|guichetauto_projet.csproj|solutionrelative:adminaffichertransacop.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F841D3AB-9C2E-4FBE-ABD2-44F5269917C5}|guichetauto_projet.csproj|C:\\Users\\15148\\source\\repos\\guichetauto_projet\\affichersoldesfrm.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F841D3AB-9C2E-4FBE-ABD2-44F5269917C5}|guichetauto_projet.csproj|solutionrelative:affichersoldesfrm.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F841D3AB-9C2E-4FBE-ABD2-44F5269917C5}|guichetauto_projet.csproj|C:\\Users\\15148\\source\\repos\\guichetauto_projet\\admincompteop.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F841D3AB-9C2E-4FBE-ABD2-44F5269917C5}|guichetauto_projet.csproj|solutionrelative:admincompteop.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F841D3AB-9C2E-4FBE-ABD2-44F5269917C5}|guichetauto_projet.csproj|C:\\Users\\15148\\source\\repos\\guichetauto_projet\\transac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F841D3AB-9C2E-4FBE-ABD2-44F5269917C5}|guichetauto_projet.csproj|solutionrelative:transac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F841D3AB-9C2E-4FBE-ABD2-44F5269917C5}|guichetauto_projet.csproj|C:\\Users\\15148\\source\\repos\\guichetauto_projet\\comptecheque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F841D3AB-9C2E-4FBE-ABD2-44F5269917C5}|guichetauto_projet.csproj|solutionrelative:comptecheque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F841D3AB-9C2E-4FBE-ABD2-44F5269917C5}|guichetauto_projet.csproj|C:\\Users\\15148\\source\\repos\\guichetauto_projet\\clientactif.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F841D3AB-9C2E-4FBE-ABD2-44F5269917C5}|guichetauto_projet.csproj|solutionrelative:clientactif.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F841D3AB-9C2E-4FBE-ABD2-44F5269917C5}|guichetauto_projet.csproj|C:\\Users\\15148\\source\\repos\\guichetauto_projet\\depotepargne.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F841D3AB-9C2E-4FBE-ABD2-44F5269917C5}|guichetauto_projet.csproj|solutionrelative:depotepargne.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F841D3AB-9C2E-4FBE-ABD2-44F5269917C5}|guichetauto_projet.csproj|C:\\Users\\15148\\source\\repos\\guichetauto_projet\\adminclientop.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F841D3AB-9C2E-4FBE-ABD2-44F5269917C5}|guichetauto_projet.csproj|solutionrelative:adminclientop.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F841D3AB-9C2E-4FBE-ABD2-44F5269917C5}|guichetauto_projet.csproj|C:\\Users\\15148\\source\\repos\\guichetauto_projet\\frmloggin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F841D3AB-9C2E-4FBE-ABD2-44F5269917C5}|guichetauto_projet.csproj|solutionrelative:frmloggin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F841D3AB-9C2E-4FBE-ABD2-44F5269917C5}|guichetauto_projet.csproj|C:\\Users\\15148\\source\\repos\\guichetauto_projet\\menuprincipal.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F841D3AB-9C2E-4FBE-ABD2-44F5269917C5}|guichetauto_projet.csproj|solutionrelative:menuprincipal.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F841D3AB-9C2E-4FBE-ABD2-44F5269917C5}|guichetauto_projet.csproj|C:\\Users\\15148\\source\\repos\\guichetauto_projet\\frmloggin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F841D3AB-9C2E-4FBE-ABD2-44F5269917C5}|guichetauto_projet.csproj|solutionrelative:frmloggin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F841D3AB-9C2E-4FBE-ABD2-44F5269917C5}|guichetauto_projet.csproj|C:\\Users\\15148\\source\\repos\\guichetauto_projet\\logginadmin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F841D3AB-9C2E-4FBE-ABD2-44F5269917C5}|guichetauto_projet.csproj|solutionrelative:logginadmin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F841D3AB-9C2E-4FBE-ABD2-44F5269917C5}|guichetauto_projet.csproj|C:\\Users\\15148\\source\\repos\\guichetauto_projet\\transfertepargne.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F841D3AB-9C2E-4FBE-ABD2-44F5269917C5}|guichetauto_projet.csproj|solutionrelative:transfertepargne.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F841D3AB-9C2E-4FBE-ABD2-44F5269917C5}|guichetauto_projet.csproj|C:\\Users\\15148\\source\\repos\\guichetauto_projet\\menuprincipal.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F841D3AB-9C2E-4FBE-ABD2-44F5269917C5}|guichetauto_projet.csproj|solutionrelative:menuprincipal.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F841D3AB-9C2E-4FBE-ABD2-44F5269917C5}|guichetauto_projet.csproj|C:\\Users\\15148\\source\\repos\\guichetauto_projet\\depotfrm.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F841D3AB-9C2E-4FBE-ABD2-44F5269917C5}|guichetauto_projet.csproj|solutionrelative:depotfrm.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F841D3AB-9C2E-4FBE-ABD2-44F5269917C5}|guichetauto_projet.csproj|C:\\Users\\15148\\source\\repos\\guichetauto_projet\\affichersoldesfrm.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F841D3AB-9C2E-4FBE-ABD2-44F5269917C5}|guichetauto_projet.csproj|solutionrelative:affichersoldesfrm.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F841D3AB-9C2E-4FBE-ABD2-44F5269917C5}|guichetauto_projet.csproj|C:\\Users\\15148\\source\\repos\\guichetauto_projet\\paiementfrm.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F841D3AB-9C2E-4FBE-ABD2-44F5269917C5}|guichetauto_projet.csproj|solutionrelative:paiementfrm.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F841D3AB-9C2E-4FBE-ABD2-44F5269917C5}|guichetauto_projet.csproj|C:\\Users\\15148\\source\\repos\\guichetauto_projet\\paiementfrm.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F841D3AB-9C2E-4FBE-ABD2-44F5269917C5}|guichetauto_projet.csproj|solutionrelative:paiementfrm.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F841D3AB-9C2E-4FBE-ABD2-44F5269917C5}|guichetauto_projet.csproj|C:\\Users\\15148\\source\\repos\\guichetauto_projet\\transfertmarge.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F841D3AB-9C2E-4FBE-ABD2-44F5269917C5}|guichetauto_projet.csproj|solutionrelative:transfertmarge.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F841D3AB-9C2E-4FBE-ABD2-44F5269917C5}|guichetauto_projet.csproj|C:\\Users\\15148\\source\\repos\\guichetauto_projet\\transfertepargne.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F841D3AB-9C2E-4FBE-ABD2-44F5269917C5}|guichetauto_projet.csproj|solutionrelative:transfertepargne.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F841D3AB-9C2E-4FBE-ABD2-44F5269917C5}|guichetauto_projet.csproj|C:\\Users\\15148\\source\\repos\\guichetauto_projet\\transfertfrm.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F841D3AB-9C2E-4FBE-ABD2-44F5269917C5}|guichetauto_projet.csproj|solutionrelative:transfertfrm.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F841D3AB-9C2E-4FBE-ABD2-44F5269917C5}|guichetauto_projet.csproj|C:\\Users\\15148\\source\\repos\\guichetauto_projet\\resource1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{F841D3AB-9C2E-4FBE-ABD2-44F5269917C5}|guichetauto_projet.csproj|solutionrelative:resource1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F841D3AB-9C2E-4FBE-ABD2-44F5269917C5}|guichetauto_projet.csproj|C:\\Users\\15148\\source\\repos\\guichetauto_projet\\transferthypothecaire.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F841D3AB-9C2E-4FBE-ABD2-44F5269917C5}|guichetauto_projet.csproj|solutionrelative:transferthypothecaire.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F841D3AB-9C2E-4FBE-ABD2-44F5269917C5}|guichetauto_projet.csproj|C:\\Users\\15148\\source\\repos\\guichetauto_projet\\transfertmarge.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F841D3AB-9C2E-4FBE-ABD2-44F5269917C5}|guichetauto_projet.csproj|solutionrelative:transfertmarge.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F841D3AB-9C2E-4FBE-ABD2-44F5269917C5}|guichetauto_projet.csproj|C:\\Users\\15148\\source\\repos\\guichetauto_projet\\transfertfrm.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F841D3AB-9C2E-4FBE-ABD2-44F5269917C5}|guichetauto_projet.csproj|solutionrelative:transfertfrm.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F841D3AB-9C2E-4FBE-ABD2-44F5269917C5}|guichetauto_projet.csproj|C:\\Users\\15148\\source\\repos\\guichetauto_projet\\retraitepargne.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F841D3AB-9C2E-4FBE-ABD2-44F5269917C5}|guichetauto_projet.csproj|solutionrelative:retraitepargne.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F841D3AB-9C2E-4FBE-ABD2-44F5269917C5}|guichetauto_projet.csproj|C:\\Users\\15148\\source\\repos\\guichetauto_projet\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F841D3AB-9C2E-4FBE-ABD2-44F5269917C5}|guichetauto_projet.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F841D3AB-9C2E-4FBE-ABD2-44F5269917C5}|guichetauto_projet.csproj|C:\\Users\\15148\\source\\repos\\guichetauto_projet\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F841D3AB-9C2E-4FBE-ABD2-44F5269917C5}|guichetauto_projet.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "LogginAdmin.xaml",
+              "DocumentMoniker": "C:\\Users\\15148\\source\\repos\\guichetauto_projet\\LogginAdmin.xaml",
+              "RelativeDocumentMoniker": "LogginAdmin.xaml",
+              "ToolTip": "C:\\Users\\15148\\source\\repos\\guichetauto_projet\\LogginAdmin.xaml",
+              "RelativeToolTip": "LogginAdmin.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-15T21:03:14.324Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LogginAdmin.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\15148\\source\\repos\\guichetauto_projet\\LogginAdmin.xaml.cs",
+              "RelativeDocumentMoniker": "LogginAdmin.xaml.cs",
+              "ToolTip": "C:\\Users\\15148\\source\\repos\\guichetauto_projet\\LogginAdmin.xaml.cs",
+              "RelativeToolTip": "LogginAdmin.xaml.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAApwFQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T21:11:24.307Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AdminMenu.xaml",
+              "DocumentMoniker": "C:\\Users\\15148\\source\\repos\\guichetauto_projet\\AdminMenu.xaml",
+              "RelativeDocumentMoniker": "AdminMenu.xaml",
+              "ToolTip": "C:\\Users\\15148\\source\\repos\\guichetauto_projet\\AdminMenu.xaml",
+              "RelativeToolTip": "AdminMenu.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-15T21:40:38.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AdminGuichetOP.xaml",
+              "DocumentMoniker": "C:\\Users\\15148\\source\\repos\\guichetauto_projet\\AdminGuichetOP.xaml",
+              "RelativeDocumentMoniker": "AdminGuichetOP.xaml",
+              "ToolTip": "C:\\Users\\15148\\source\\repos\\guichetauto_projet\\AdminGuichetOP.xaml",
+              "RelativeToolTip": "AdminGuichetOP.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-16T21:40:44.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RetraitCheque.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\15148\\source\\repos\\guichetauto_projet\\RetraitCheque.xaml.cs",
+              "RelativeDocumentMoniker": "RetraitCheque.xaml.cs",
+              "ToolTip": "C:\\Users\\15148\\source\\repos\\guichetauto_projet\\RetraitCheque.xaml.cs",
+              "RelativeToolTip": "RetraitCheque.xaml.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T21:49:11.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DepotCheque.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\15148\\source\\repos\\guichetauto_projet\\DepotCheque.xaml.cs",
+              "RelativeDocumentMoniker": "DepotCheque.xaml.cs",
+              "ToolTip": "C:\\Users\\15148\\source\\repos\\guichetauto_projet\\DepotCheque.xaml.cs",
+              "RelativeToolTip": "DepotCheque.xaml.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAQwCUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T22:55:01.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminBloquageOP.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\15148\\source\\repos\\guichetauto_projet\\AdminBloquageOP.xaml.cs",
+              "RelativeDocumentMoniker": "AdminBloquageOP.xaml.cs",
+              "ToolTip": "C:\\Users\\15148\\source\\repos\\guichetauto_projet\\AdminBloquageOP.xaml.cs",
+              "RelativeToolTip": "AdminBloquageOP.xaml.cs",
+              "ViewState": "AQIAAGgAAAAAAAAAAAAAAH8AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T23:51:53.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AdminMenu.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\15148\\source\\repos\\guichetauto_projet\\AdminMenu.xaml.cs",
+              "RelativeDocumentMoniker": "AdminMenu.xaml.cs",
+              "ToolTip": "C:\\Users\\15148\\source\\repos\\guichetauto_projet\\AdminMenu.xaml.cs",
+              "RelativeToolTip": "AdminMenu.xaml.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAswEQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T21:54:59.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ClientActif.cs",
+              "DocumentMoniker": "C:\\Users\\15148\\source\\repos\\guichetauto_projet\\ClientActif.cs",
+              "RelativeDocumentMoniker": "ClientActif.cs",
+              "ToolTip": "C:\\Users\\15148\\source\\repos\\guichetauto_projet\\ClientActif.cs",
+              "RelativeToolTip": "ClientActif.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T20:14:38.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RetraitEpargne.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\15148\\source\\repos\\guichetauto_projet\\RetraitEpargne.xaml.cs",
+              "RelativeDocumentMoniker": "RetraitEpargne.xaml.cs",
+              "ToolTip": "C:\\Users\\15148\\source\\repos\\guichetauto_projet\\RetraitEpargne.xaml.cs",
+              "RelativeToolTip": "RetraitEpargne.xaml.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAADwv6kAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T00:36:14.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminAfficherTransacOP.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\15148\\source\\repos\\guichetauto_projet\\AdminAfficherTransacOP.xaml.cs",
+              "RelativeDocumentMoniker": "AdminAfficherTransacOP.xaml.cs",
+              "ToolTip": "C:\\Users\\15148\\source\\repos\\guichetauto_projet\\AdminAfficherTransacOP.xaml.cs",
+              "RelativeToolTip": "AdminAfficherTransacOP.xaml.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAqwDIAAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T20:31:08.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TransfertHypothecaire.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\15148\\source\\repos\\guichetauto_projet\\TransfertHypothecaire.xaml.cs",
+              "RelativeDocumentMoniker": "TransfertHypothecaire.xaml.cs",
+              "ToolTip": "C:\\Users\\15148\\source\\repos\\guichetauto_projet\\TransfertHypothecaire.xaml.cs",
+              "RelativeToolTip": "TransfertHypothecaire.xaml.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAgwDcAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T20:36:16.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Transac.cs",
+              "DocumentMoniker": "C:\\Users\\15148\\source\\repos\\guichetauto_projet\\Transac.cs",
+              "RelativeDocumentMoniker": "Transac.cs",
+              "ToolTip": "C:\\Users\\15148\\source\\repos\\guichetauto_projet\\Transac.cs",
+              "RelativeToolTip": "Transac.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T20:14:56.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminPreleverOP.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\15148\\source\\repos\\guichetauto_projet\\AdminPreleverOP.xaml.cs",
+              "RelativeDocumentMoniker": "AdminPreleverOP.xaml.cs",
+              "ToolTip": "C:\\Users\\15148\\source\\repos\\guichetauto_projet\\AdminPreleverOP.xaml.cs",
+              "RelativeToolTip": "AdminPreleverOP.xaml.cs",
+              "ViewState": "AQIAAE8BAAAAAAAAAAAqwG4BAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T00:15:10.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminClientOP.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\15148\\source\\repos\\guichetauto_projet\\AdminClientOP.xaml.cs",
+              "RelativeDocumentMoniker": "AdminClientOP.xaml.cs",
+              "ToolTip": "C:\\Users\\15148\\source\\repos\\guichetauto_projet\\AdminClientOP.xaml.cs",
+              "RelativeToolTip": "AdminClientOP.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T22:52:38.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdminCompteOP.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\15148\\source\\repos\\guichetauto_projet\\AdminCompteOP.xaml.cs",
+              "RelativeDocumentMoniker": "AdminCompteOP.xaml.cs",
+              "ToolTip": "C:\\Users\\15148\\source\\repos\\guichetauto_projet\\AdminCompteOP.xaml.cs",
+              "RelativeToolTip": "AdminCompteOP.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T23:39:18.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AdminCreerCompteOP.xaml",
+              "DocumentMoniker": "C:\\Users\\15148\\source\\repos\\guichetauto_projet\\AdminCreerCompteOP.xaml",
+              "RelativeDocumentMoniker": "AdminCreerCompteOP.xaml",
+              "ToolTip": "C:\\Users\\15148\\source\\repos\\guichetauto_projet\\AdminCreerCompteOP.xaml",
+              "RelativeToolTip": "AdminCreerCompteOP.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-16T00:06:11.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AdminGuichetOP.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\15148\\source\\repos\\guichetauto_projet\\AdminGuichetOP.xaml.cs",
+              "RelativeDocumentMoniker": "AdminGuichetOP.xaml.cs",
+              "ToolTip": "C:\\Users\\15148\\source\\repos\\guichetauto_projet\\AdminGuichetOP.xaml.cs",
+              "RelativeToolTip": "AdminGuichetOP.xaml.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAowE4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T21:42:38.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DepotCheque.xaml",
+              "DocumentMoniker": "C:\\Users\\15148\\source\\repos\\guichetauto_projet\\DepotCheque.xaml",
+              "RelativeDocumentMoniker": "DepotCheque.xaml",
+              "ToolTip": "C:\\Users\\15148\\source\\repos\\guichetauto_projet\\DepotCheque.xaml",
+              "RelativeToolTip": "DepotCheque.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-16T00:16:00.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AdminCreerCompteOP.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\15148\\source\\repos\\guichetauto_projet\\AdminCreerCompteOP.xaml.cs",
+              "RelativeDocumentMoniker": "AdminCreerCompteOP.xaml.cs",
+              "ToolTip": "C:\\Users\\15148\\source\\repos\\guichetauto_projet\\AdminCreerCompteOP.xaml.cs",
+              "RelativeToolTip": "AdminCreerCompteOP.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T21:13:20.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AdminBloquageOP.xaml",
+              "DocumentMoniker": "C:\\Users\\15148\\source\\repos\\guichetauto_projet\\AdminBloquageOP.xaml",
+              "RelativeDocumentMoniker": "AdminBloquageOP.xaml",
+              "ToolTip": "C:\\Users\\15148\\source\\repos\\guichetauto_projet\\AdminBloquageOP.xaml",
+              "RelativeToolTip": "AdminBloquageOP.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-15T23:49:15.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AfficherSoldesfrm.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\15148\\source\\repos\\guichetauto_projet\\AfficherSoldesfrm.xaml.cs",
+              "RelativeDocumentMoniker": "AfficherSoldesfrm.xaml.cs",
+              "ToolTip": "C:\\Users\\15148\\source\\repos\\guichetauto_projet\\AfficherSoldesfrm.xaml.cs",
+              "RelativeToolTip": "AfficherSoldesfrm.xaml.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAYwB8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T23:17:20.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AdminClientOP.xaml",
+              "DocumentMoniker": "C:\\Users\\15148\\source\\repos\\guichetauto_projet\\AdminClientOP.xaml",
+              "RelativeDocumentMoniker": "AdminClientOP.xaml",
+              "ToolTip": "C:\\Users\\15148\\source\\repos\\guichetauto_projet\\AdminClientOP.xaml",
+              "RelativeToolTip": "AdminClientOP.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-16T00:08:30.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AdminAfficherTransacOP.xaml",
+              "DocumentMoniker": "C:\\Users\\15148\\source\\repos\\guichetauto_projet\\AdminAfficherTransacOP.xaml",
+              "RelativeDocumentMoniker": "AdminAfficherTransacOP.xaml",
+              "ToolTip": "C:\\Users\\15148\\source\\repos\\guichetauto_projet\\AdminAfficherTransacOP.xaml",
+              "RelativeToolTip": "AdminAfficherTransacOP.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-16T01:27:20.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AdminCompteOP.xaml",
+              "DocumentMoniker": "C:\\Users\\15148\\source\\repos\\guichetauto_projet\\AdminCompteOP.xaml",
+              "RelativeDocumentMoniker": "AdminCompteOP.xaml",
+              "ToolTip": "C:\\Users\\15148\\source\\repos\\guichetauto_projet\\AdminCompteOP.xaml",
+              "RelativeToolTip": "AdminCompteOP.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-16T00:06:38.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CompteCheque.cs",
+              "DocumentMoniker": "C:\\Users\\15148\\source\\repos\\guichetauto_projet\\CompteCheque.cs",
+              "RelativeDocumentMoniker": "CompteCheque.cs",
+              "ToolTip": "C:\\Users\\15148\\source\\repos\\guichetauto_projet\\CompteCheque.cs",
+              "RelativeToolTip": "CompteCheque.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T20:14:31.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DepotEpargne.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\15148\\source\\repos\\guichetauto_projet\\DepotEpargne.xaml.cs",
+              "RelativeDocumentMoniker": "DepotEpargne.xaml.cs",
+              "ToolTip": "C:\\Users\\15148\\source\\repos\\guichetauto_projet\\DepotEpargne.xaml.cs",
+              "RelativeToolTip": "DepotEpargne.xaml.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAA1wCYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T00:27:48.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "frmLoggin.xaml",
+              "DocumentMoniker": "C:\\Users\\15148\\source\\repos\\guichetauto_projet\\frmLoggin.xaml",
+              "RelativeDocumentMoniker": "frmLoggin.xaml",
+              "ToolTip": "C:\\Users\\15148\\source\\repos\\guichetauto_projet\\frmLoggin.xaml",
+              "RelativeToolTip": "frmLoggin.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-01T22:04:58.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Paiementfrm.xaml",
+              "DocumentMoniker": "C:\\Users\\15148\\source\\repos\\guichetauto_projet\\Paiementfrm.xaml",
+              "RelativeDocumentMoniker": "Paiementfrm.xaml",
+              "ToolTip": "C:\\Users\\15148\\source\\repos\\guichetauto_projet\\Paiementfrm.xaml",
+              "RelativeToolTip": "Paiementfrm.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-14T21:35:54.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "TransfertHypothecaire.xaml",
+              "DocumentMoniker": "C:\\Users\\15148\\source\\repos\\guichetauto_projet\\TransfertHypothecaire.xaml",
+              "RelativeDocumentMoniker": "TransfertHypothecaire.xaml",
+              "ToolTip": "C:\\Users\\15148\\source\\repos\\guichetauto_projet\\TransfertHypothecaire.xaml",
+              "RelativeToolTip": "TransfertHypothecaire.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-14T20:35:31.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "frmLoggin.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\15148\\source\\repos\\guichetauto_projet\\frmLoggin.xaml.cs",
+              "RelativeDocumentMoniker": "frmLoggin.xaml.cs",
+              "ToolTip": "C:\\Users\\15148\\source\\repos\\guichetauto_projet\\frmLoggin.xaml.cs",
+              "RelativeToolTip": "frmLoggin.xaml.cs",
+              "ViewState": "AQIAAJsAAAAAAAAAAAAUwNUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T22:13:42.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "MenuPrincipal.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\15148\\source\\repos\\guichetauto_projet\\MenuPrincipal.xaml.cs",
+              "RelativeDocumentMoniker": "MenuPrincipal.xaml.cs",
+              "ToolTip": "C:\\Users\\15148\\source\\repos\\guichetauto_projet\\MenuPrincipal.xaml.cs",
+              "RelativeToolTip": "MenuPrincipal.xaml.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAUwEsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T23:42:06.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "MenuPrincipal.xaml",
+              "DocumentMoniker": "C:\\Users\\15148\\source\\repos\\guichetauto_projet\\MenuPrincipal.xaml",
+              "RelativeDocumentMoniker": "MenuPrincipal.xaml",
+              "ToolTip": "C:\\Users\\15148\\source\\repos\\guichetauto_projet\\MenuPrincipal.xaml",
+              "RelativeToolTip": "MenuPrincipal.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-02T21:55:57.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Paiementfrm.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\15148\\source\\repos\\guichetauto_projet\\Paiementfrm.xaml.cs",
+              "RelativeDocumentMoniker": "Paiementfrm.xaml.cs",
+              "ToolTip": "C:\\Users\\15148\\source\\repos\\guichetauto_projet\\Paiementfrm.xaml.cs",
+              "RelativeToolTip": "Paiementfrm.xaml.cs",
+              "ViewState": "AQIAACEBAAAAAAAAAAAYwDEBAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T21:36:38.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AfficherSoldesfrm.xaml",
+              "DocumentMoniker": "C:\\Users\\15148\\source\\repos\\guichetauto_projet\\AfficherSoldesfrm.xaml",
+              "RelativeDocumentMoniker": "AfficherSoldesfrm.xaml",
+              "ToolTip": "C:\\Users\\15148\\source\\repos\\guichetauto_projet\\AfficherSoldesfrm.xaml",
+              "RelativeToolTip": "AfficherSoldesfrm.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-14T23:01:51.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "TransfertEpargne.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\15148\\source\\repos\\guichetauto_projet\\TransfertEpargne.xaml.cs",
+              "RelativeDocumentMoniker": "TransfertEpargne.xaml.cs",
+              "ToolTip": "C:\\Users\\15148\\source\\repos\\guichetauto_projet\\TransfertEpargne.xaml.cs",
+              "RelativeToolTip": "TransfertEpargne.xaml.cs",
+              "ViewState": "AQIAAPcAAAAAAAAAAAAYwA0BAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T23:31:11.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Depotfrm.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\15148\\source\\repos\\guichetauto_projet\\Depotfrm.xaml.cs",
+              "RelativeDocumentMoniker": "Depotfrm.xaml.cs",
+              "ToolTip": "C:\\Users\\15148\\source\\repos\\guichetauto_projet\\Depotfrm.xaml.cs",
+              "RelativeToolTip": "Depotfrm.xaml.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T21:12:21.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "RetraitEpargne.xaml",
+              "DocumentMoniker": "C:\\Users\\15148\\source\\repos\\guichetauto_projet\\RetraitEpargne.xaml",
+              "RelativeDocumentMoniker": "RetraitEpargne.xaml",
+              "ToolTip": "C:\\Users\\15148\\source\\repos\\guichetauto_projet\\RetraitEpargne.xaml",
+              "RelativeToolTip": "RetraitEpargne.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-10T00:32:56.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Transfertfrm.xaml",
+              "DocumentMoniker": "C:\\Users\\15148\\source\\repos\\guichetauto_projet\\Transfertfrm.xaml",
+              "RelativeDocumentMoniker": "Transfertfrm.xaml",
+              "ToolTip": "C:\\Users\\15148\\source\\repos\\guichetauto_projet\\Transfertfrm.xaml",
+              "RelativeToolTip": "Transfertfrm.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-10T22:42:38.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Transfertfrm.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\15148\\source\\repos\\guichetauto_projet\\Transfertfrm.xaml.cs",
+              "RelativeDocumentMoniker": "Transfertfrm.xaml.cs",
+              "ToolTip": "C:\\Users\\15148\\source\\repos\\guichetauto_projet\\Transfertfrm.xaml.cs",
+              "RelativeToolTip": "Transfertfrm.xaml.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowDcAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T22:53:32.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Resource1.resx",
+              "DocumentMoniker": "C:\\Users\\15148\\source\\repos\\guichetauto_projet\\Resource1.resx",
+              "RelativeDocumentMoniker": "Resource1.resx",
+              "ToolTip": "C:\\Users\\15148\\source\\repos\\guichetauto_projet\\Resource1.resx",
+              "RelativeToolTip": "Resource1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-10-01T22:38:59.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "TransfertMarge.xaml",
+              "DocumentMoniker": "C:\\Users\\15148\\source\\repos\\guichetauto_projet\\TransfertMarge.xaml",
+              "RelativeDocumentMoniker": "TransfertMarge.xaml",
+              "ToolTip": "C:\\Users\\15148\\source\\repos\\guichetauto_projet\\TransfertMarge.xaml",
+              "RelativeToolTip": "TransfertMarge.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-14T21:03:08.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\15148\\source\\repos\\guichetauto_projet\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\Users\\15148\\source\\repos\\guichetauto_projet\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAABsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-01T23:15:15.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\15148\\source\\repos\\guichetauto_projet\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\15148\\source\\repos\\guichetauto_projet\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-01T22:37:43.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "TransfertEpargne.xaml",
+              "DocumentMoniker": "C:\\Users\\15148\\source\\repos\\guichetauto_projet\\TransfertEpargne.xaml",
+              "RelativeDocumentMoniker": "TransfertEpargne.xaml",
+              "ToolTip": "C:\\Users\\15148\\source\\repos\\guichetauto_projet\\TransfertEpargne.xaml",
+              "RelativeToolTip": "TransfertEpargne.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-14T20:44:38.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "TransfertMarge.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\15148\\source\\repos\\guichetauto_projet\\TransfertMarge.xaml.cs",
+              "RelativeDocumentMoniker": "TransfertMarge.xaml.cs",
+              "ToolTip": "C:\\Users\\15148\\source\\repos\\guichetauto_projet\\TransfertMarge.xaml.cs",
+              "RelativeToolTip": "TransfertMarge.xaml.cs",
+              "ViewState": "AQIAAJQAAAAAAAAAAAAcwEIBAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T21:04:35.771Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

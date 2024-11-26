@@ -1,0 +1,41 @@
+﻿<Window x:Class="guichetauto_projet.AdminMenu"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:guichetauto_projet"
+        mc:Ignorable="d"
+            Title="Menu Admin" Height="500" Width="660" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Grid Background="#FF005DA5">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="20"></ColumnDefinition>
+            <ColumnDefinition Width="200"></ColumnDefinition>
+            <ColumnDefinition Width="10"></ColumnDefinition>
+            <ColumnDefinition Width="200"></ColumnDefinition>
+            <ColumnDefinition Width="10"></ColumnDefinition>
+            <ColumnDefinition Width="200"></ColumnDefinition>
+            <ColumnDefinition Width="20"></ColumnDefinition>
+
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="80"></RowDefinition>
+            <RowDefinition Height="80"></RowDefinition>
+            <RowDefinition Height="10"></RowDefinition>
+            <RowDefinition Height="80"></RowDefinition>
+            <RowDefinition Height="40"></RowDefinition>
+            <RowDefinition Height="60"></RowDefinition>
+            <RowDefinition Height="80"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Label x:Name="lblInfo" Content="Opérations" Background="#FF005DA5" FontSize="25" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Foreground="White" FontWeight="Bold" FontFamily="Microsoft JhengHei UI" Grid.Row="0" Grid.Column="1" Grid.ColumnSpan="3" Margin="110,0,100,0"/>
+        <Label x:Name="lblInfo2" Content="Opérations sur tout les comptes" Background="#FF005DA5" FontSize="12" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Foreground="White" Height="30" FontWeight="Bold" FontFamily="Microsoft JhengHei UI" Grid.Row="0" Grid.Column="5" Margin="0,40,0,10"/>
+        <Button x:Name="btnClient" Content="Clients" Grid.Row="1" Grid.Column="1" FontSize="30" Background="#FF00CAFF" Foreground="White" FontWeight="Bold" FontFamily="Microsoft JhengHei UI" Click="btnClient_click"/>
+        <Button x:Name="btnCompte" Content="Comptes" Grid.Row="1" Grid.Column="3" FontSize="30" Background="#FF00CAFF" Foreground="White" FontFamily="Microsoft JhengHei UI" FontWeight="Bold" Click="btnCompte_click"/>
+        <Button x:Name="btnGuichet" Content="Guichet" Grid.Row="3" Grid.Column="3" FontSize="30" Background="#FF00CAFF" Foreground="White" FontFamily="Microsoft JhengHei UI" FontWeight="Bold" Click="btnGuichet_click"/>
+        <Button x:Name="btnInteret" Content="Intérêt Épargne (1%)" Grid.Row="3" Grid.Column="5" FontSize="15" Height="50" Background="#FF00CAFF" Foreground="White" FontFamily="Microsoft JhengHei UI" FontWeight="Bold" Click="btnInteret_click"/>
+        <Button x:Name="btnPrelever" Content="Prélever" Grid.Row="3" Grid.Column="1" FontSize="30" Background="#FF00CAFF" Foreground="White" FontFamily="Microsoft JhengHei UI" FontWeight="Bold" Click="btnPrelever_click"/>
+        <Button x:Name="btnMarge" Content="Augmenter Marge (5%)" Grid.Row="1" Height="50" Grid.Column="5" FontSize="15" Background="#FF00CAFF" Foreground="White" FontFamily="Microsoft JhengHei UI" FontWeight="Bold" Click="btnMarge_click"/>
+        <Button x:Name="btnTransaction" Content="Afficher les transactions" Grid.Row="4" FontSize="25" Grid.ColumnSpan="5" Margin="160,30,160,10" Grid.Column="1" Grid.RowSpan="2" Foreground="White" Background="#FF1164D2" Width="300" FontFamily="Microsoft JhengHei UI" FontWeight="Bold" Click="btnAfficherTransac_click"/>
+        <Button x:Name="btnQuit" Content="Quitter" Grid.Row="6" Grid.Column="3" FontSize="30" Width="120" Margin="40,10,40,10" Foreground="White" Background="#FF00CAFF" FontFamily="Microsoft JhengHei UI" FontWeight="Bold" Click="btnQuitter_click"/>
+
+    </Grid>
+</Window>

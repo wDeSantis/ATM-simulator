@@ -1,0 +1,39 @@
+﻿<Window x:Name="MenuPrincipal1" x:Class="guichetauto_projet.MenuPrincipal"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:guichetauto_projet"
+        mc:Ignorable="d"
+        Title="Menu" Height="500" Width="660" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Grid Background="#FF005DA5">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="20"></ColumnDefinition>
+            <ColumnDefinition Width="200"></ColumnDefinition>
+            <ColumnDefinition Width="200"></ColumnDefinition>
+            <ColumnDefinition Width="10"></ColumnDefinition>
+            <ColumnDefinition Width="200"></ColumnDefinition>
+            <ColumnDefinition Width="200"></ColumnDefinition>
+            <ColumnDefinition Width="20"></ColumnDefinition>
+
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="80"></RowDefinition>
+            <RowDefinition Height="80"></RowDefinition>
+            <RowDefinition Height="10"></RowDefinition>
+            <RowDefinition Height="80"></RowDefinition>
+            <RowDefinition Height="40"></RowDefinition>
+            <RowDefinition Height="60"></RowDefinition>
+            <RowDefinition Height="80"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Label x:Name="lblBienvenue" Grid.Row="0" Grid.Column="1" Content="Bienvenue" FontSize="15" Height="40" Width="120" HorizontalAlignment="Left" VerticalAlignment="Bottom" VerticalContentAlignment="Bottom" Foreground="#FF00CAFF" FontFamily="Miriam Libre" FontWeight="Bold" Margin="0,0,0,75" Grid.RowSpan="2"/>
+        <Label x:Name="txtNomClient" Grid.Row="1" Grid.Column="1" Content="" FontSize="15" Height="70" VerticalAlignment="Top" Margin="0 10 0 0" Foreground="White" FontFamily="Miriam Libre" FontWeight="Bold" HorizontalContentAlignment="Left" VerticalContentAlignment="Top"/>
+        <Button x:Name="btnDepot" Content="Dépot" Grid.Row="1" Grid.Column="2" FontSize="30" Background="#FF00CAFF" Foreground="White" FontWeight="Bold" FontFamily="Microsoft JhengHei UI" Click="btnDepot_click"/>
+        <Button x:Name="btnRetrait" Content="Retrait" Grid.Row="1" Grid.Column="4" FontSize="30" Background="#FF00CAFF" Foreground="White" FontFamily="Microsoft JhengHei UI" FontWeight="Bold" Click="btnRetrait_click"/>
+        <Button x:Name="btnTransfert" Content="Transfert" Grid.Row="3" Grid.Column="2" FontSize="30" Background="#FF00CAFF" Foreground="White" FontFamily="Microsoft JhengHei UI" FontWeight="Bold" Click="btnTransfert_click"/>
+        <Button x:Name="btnPaiement" Content="Paiement" Grid.Row="3" Grid.Column="4" FontSize="30" Background="#FF00CAFF" Foreground="White" FontFamily="Microsoft JhengHei UI" FontWeight="Bold" Click="btnPaiement_click"/>
+        <Button x:Name="btnSoldes" Content="Afficher les soldes" Grid.Row="4" FontSize="25" Grid.ColumnSpan="3" Margin="80,20,80,20" Grid.Column="2" Grid.RowSpan="2" Foreground="White" Background="#FF1164D2" Width="250" FontFamily="Microsoft JhengHei UI" FontWeight="Bold" Click="btnAfficherSoldes_click"/>
+        <Button x:Name="btnQuit" Content="Quitter" Grid.Row="6" Grid.Column="2" FontSize="30" Width="120" Margin="145,10,145,10" Grid.ColumnSpan="3" Foreground="White" Background="#FF00CAFF" FontFamily="Microsoft JhengHei UI" FontWeight="Bold" Click="btnQuitter_click"/>
+
+    </Grid>
+</Window>
